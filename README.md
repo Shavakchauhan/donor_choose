@@ -28,5 +28,11 @@ Feature | Description
 
 <br>For all projects with project_submitted_datetime of 2016-05-17 and later, the values of project_essay_3 and project_essay_4 will be NaN.
 
+<h2><u>Notebooks and their description</u></h2>
 
+* **1_Reference_EDA.ipynb** : This notebook contains exploratory data analysis for donor choose dataset. Different graphs and plots are made such as bar graph ,line plot, pie chart , distribution plots etc for understanding the data
+
+* **2_Reference_Propcessing.ipynb** : This notebook contains different preprocessing steps for handling numerical and text data. Standardization, fill nan values etc for numerical values. Tfidf, stemming, stop word removal etc for text data
+
+* **assignment_26lstm.ipynb** : This notebook contains three different deep learning models built using lstm , cnn , dense layers etc .Their relative performance is shown in the notebook. This models are build using tensorflow ,keras etc
 
